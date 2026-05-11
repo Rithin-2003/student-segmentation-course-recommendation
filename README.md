@@ -1,2 +1,17 @@
-# student-segmentation-course-recommendation
-A machine learning-based educational recommendation system that performs student segmentation using K-Means clustering and generates personalized course recommendations with interactive Streamlit dashboard visualization.
+# Student Segmentation and Personalized Course Recommendation System
+
+Machine learning based educational recommendation system using K-Means clustering and Streamlit.
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Streamlit
+- Plotly
+
+## Features
+- Learner Segmentation
+- Personalized Recommendations
+- Visualization Dashboard
+- Filtering Mechanism
